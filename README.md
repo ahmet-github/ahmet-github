@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Rust for developing Solana 
+- 🌱 I’m currently learning Rust 
 - 📫 How to reach me: iyidoganahmet@gmail.com
 
